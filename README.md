@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akrit
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Flutter and c++
+- 🌱 I’m currently learning React and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akritttgupta@gmail.com
 
