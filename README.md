@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akrit</h1>
-<h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student | AI/ML Enthusiast</h3>
+<h2 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Always+Learning+New+Tech;Code.+Build.+Repeat." alt="Typing SVG" />
