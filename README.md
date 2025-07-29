@@ -44,18 +44,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akrittt&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="Akrit's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrittt&theme=github-dark" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
@@ -66,4 +54,4 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "99 little bugs in the code, take one down, patch it around… 127 bugs in the code" – Code poet, circa 2AM
